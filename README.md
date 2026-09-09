@@ -18,3 +18,12 @@ An IP address was assigned to the Kali Virtual Machine
 A clean snapshot and all the other instructions were closely followed ensuring the environment is same as that of the instructor.
 # See results of working VM
 https://github.com/user-attachments/assets/4871637a-9256-4155-8c92-419457b3367e
+
+#Author
+
+Jovanie Spencer
+
+Cyber Security Intern
+
+LinkedLn:
+https://www.linkedin.com/in/jovanie-spencer-3b73721aa/
